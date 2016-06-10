@@ -1,5 +1,12 @@
 # BTDI-template
-BTDI Template merupakan sebuah direktori penyimpanan template blogger yang disediakan / dibuat oleh anggota grup <a href='https://www.facebook.com/groups/B.Template.ID'>Blogger Template Designer Indonesia</a>.
+<p>BTDI Template merupakan sebuah direktori penyimpanan template blogger yang disediakan / dibuat oleh anggota grup <a href='https://www.facebook.com/groups/B.Template.ID'>Blogger Template Designer Indonesia</a>.</p>
+<p>Daftar isi:</p>
+<ul>
+<li><a href='#cara-download-template'>Cara Download Template</a></li>
+<li><a href='#cara-memasang-template-dengan-benar'>Cara Memasang Template dengan Benar</a></li>
+<li><a href='#cara-berkontribusi'>Cara Berkontribusi</a></li>
+<li><a target='_blank' href='#'>Bergabung dengan Grup FB kami</a></li>
+</ul>
 
 # Cara Download Template
 <ol>
